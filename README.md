@@ -94,7 +94,7 @@ make test
 ---
 
 ### Notes
-- The README assumes the code is now complete based on your statement. It reflects the current state (e.g., 82/100 score from the evaluation, with fixes for table over-creation).
+- The README assumes the code is now complete based on your statement.
 - Save this as `README.md` in your project directory for Markdown formatting.
 - Adjust the "Known Issues" and "Future Improvements" sections if you identify additional points during final testing.
 
