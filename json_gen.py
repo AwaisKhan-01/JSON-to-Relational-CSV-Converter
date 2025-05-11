@@ -31,7 +31,7 @@ for i in range(entries_needed):
 with open("tests/large.json", "w") as f:
     json.dump(data, f)
 
-# Check and adjust size if necessary
+# Change Size according to requirements
 size_mb = os.path.getsize("tests/large.json") / 1024 / 1024
 print(f"Generated large.json with size: {size_mb:.2f} MB")
 
